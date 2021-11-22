@@ -7,30 +7,7 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@sakakova 
-dmitrytestsqa
-/
-saucedemo
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-saucedemo/.gitignore
-@dmitrytestsqa
-dmitrytestsqa add allure reporter
-Latest commit 142e22f on Nov 25, 2019
- History
- 1 contributor
-32 lines (25 sloc)  343 Bytes
-   
+    
 # Compiled class file
 *.class
 
