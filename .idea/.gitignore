@@ -1,3 +1,78 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@sakakova 
+dmitrytestsqa
+/
+saucedemo
+Public
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+saucedemo/.gitignore
+@dmitrytestsqa
+dmitrytestsqa add allure reporter
+Latest commit 142e22f on Nov 25, 2019
+ History
+ 1 contributor
+32 lines (25 sloc)  343 Bytes
+   
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+#Allure
+/target/
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
